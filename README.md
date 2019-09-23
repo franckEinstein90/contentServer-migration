@@ -2,12 +2,7 @@ Project scripts and methods for a migration into
 a content-server instance
 
 
-Today:
 
-
-********************************** 
-- IRimsToGCDocs
-********************************** 
 Complete classification import for target prefixes
 1. How to compare what has been imported to what's in iRims
 
